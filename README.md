@@ -5,7 +5,7 @@ Bar Chart - Y
 Density Plot - X
 - Kernel Density Estimate 
 
-~ Historgram 
+  ~ Historgram 
 
 Statistical modeling methods 
 - Method of Moment 
